@@ -122,3 +122,14 @@ main{
 nav a:focus{
     box-shadow:inset 2px 2px 0 0 #FF5900;
 }
+p{
+    font-size: 18px;
+}
+.shop p{
+    color: mediumvioletred;
+
+}
+.shop p:hover{
+    transition: 3s color;
+    color: rgb(68, 0, 131);
+}
