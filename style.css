@@ -133,3 +133,6 @@ p{
     transition: 3s color;
     color: rgb(68, 0, 131);
 }
+.text:hover{
+    boxshadow: 5px 5px 0 0 #FF5900 ;
+}
