@@ -23,8 +23,8 @@ header{
 nav a{
     font-size: 20px;
     text-decoration: none;
-    color: black;
-    background-color: white;
+    color:#FDBC57 ;
+    background-color: #0D55A6;
     padding: 3px;
     border-radius: 5px;
 }
@@ -93,8 +93,11 @@ nav a{
      padding: 15px;
 }
 footer{
-height: 200px;
+    position: relative;
+    bottom: -600px;
+    height: 200px;
     background-color: #FF9A00;
+    margin-top: 225px;
 }
 footer img{
     padding:10px ;
@@ -134,5 +137,33 @@ p{
     color: rgb(68, 0, 131);
 }
 .text:hover{
-    box-shadow: 5px 5px 0 0 #FF5900 ;
+    box-shadow: 5px 5px 0 0 #FF5900;
+}
+.tovari{
+    display: flex;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.tovari article{
+    background-color: #FF9A00;
+    padding: 20px 0 0 20px ;
+     height: 320px;
+     margin-bottom:  50px;
+     border: 5px dashed #FF5900;
+}
+.knopka{
+    display: block;
+    background-color: #FFC600;
+    padding: 15px;
+    font-size:20px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    width: 90px;
+}
+nav a:hover{
+    transition: 3s background-color;
+    background-color: #00A875;
 }
