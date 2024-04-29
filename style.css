@@ -94,7 +94,7 @@ nav a{
 }
 footer{
     position: relative;
-    bottom: 200px;
+    bottom: -150px;
     height: 200px;
     background-color: #FF9A00;
     margin-top: 225px;
