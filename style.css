@@ -29,9 +29,11 @@ nav a{
     border-radius: 5px;
 }
 .about{
-    width: 400px;
+    width: 700px;
+
 }
 .text{
+
     border-radius: 49px ;
     background-color: #FFC600;
     padding: 25px;
@@ -94,7 +96,7 @@ nav a{
 }
 footer{
     position: relative;
-    bottom: -175px;
+    bottom: -600px;
     height: 200px;
     background-color: #FF9A00;
     margin-top: 225px;
@@ -154,6 +156,7 @@ p{
      margin-bottom:  50px;
      border: 5px dashed #FF5900;
      width: 300px;
+     transform: scale(1.2) ;
 }
 .knopka{
     display: block;
@@ -176,4 +179,7 @@ article img{
     display: block;
     margin-right: auto;
     margin-left: auto;
+}
+.text p{
+    font-size: 30px;
 }
