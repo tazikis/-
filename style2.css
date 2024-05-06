@@ -1,6 +1,9 @@
 body {
     font-family: sans-serif;
-    transform: scale(1.3)
+
+}
+main{
+        transform: scale(1.2)
 }
 header img{
     width: 50px;
