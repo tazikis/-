@@ -187,6 +187,6 @@ article img{
     border:5px dashed #FF5900;
     border-radius: 20px;
     padding: 15px;
-    
+        transform: scale(1.1)
 
 }
