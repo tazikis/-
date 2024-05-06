@@ -121,7 +121,7 @@ footer img{
     top: 80px;
 }
 main{
-    height: 1050px;
+    height: 500px;
 }
 nav a:focus{
     box-shadow:inset 2px 2px 0 0 #FF5900;
@@ -179,7 +179,6 @@ article img{
     margin-left: auto;
 }
 .oplata p{
-    width: 300px;
     background-color: #FF9A00;
     border:5px dashed #FF5900;
     border-radius: 20px;
